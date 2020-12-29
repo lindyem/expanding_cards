@@ -4,3 +4,5 @@
 
 ## Link
 [Expanding Cards](https://lindyem.github.io/expanding_cards/)
+
+## ![Screenshot](screenshot.png)
